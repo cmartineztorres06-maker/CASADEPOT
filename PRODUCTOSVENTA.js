@@ -26,13 +26,13 @@ const products = [
     },
     {
         id: 3,
-        name: "Sanitario de Lujo Elongado",
+        name: "LAVAMANOS REDONDO",
         code: "CDYP11165",
         price: 28.95,
         size: "46cm x 46",
         material: "Cerámica ",
         category: "LAVAMANOS",
-        description: "Lavamanos de ceramica blanca cuadrado. Perfecto para remodelar tu baño y hacerlo mas moderno. Superficie facil de limpiar",
+        description: "Lavamanos de ceramica blanca redondo. Perfecto para remodelar tu baño y hacerlo mas moderno. Superficie facil de limpiar",
         image: "CDYP11165.png",
         imageDetail: "CDYP11165.png"
     },
@@ -318,6 +318,7 @@ function closeProductModal() {
 // Inicializar
 
 renderProducts();
+
 
 
 
