@@ -16,9 +16,9 @@ const products = [
         id: 2,
         name: "Lavamanos Cuadrado Moderno",
         code: "CDYP11104",
-        price: 189.99,
-        size: "45cm x 45cm",
-        material: "Cerámica de alta resistencia",
+        price: 24.25,
+        size: "48CM x 37.5CM",
+        material: "Cerámica ",
         category: "LAVAMANOS",
         description: "Lavamanos de cerámica blanca con diseño cuadrado contemporáneo. Perfecto para baños modernos y minimalistas. Superficie fácil de limpiar y resistente a manchas.",
         image: "CDYP11104.png",
@@ -28,11 +28,11 @@ const products = [
         id: 3,
         name: "Sanitario de Lujo Elongado",
         code: "CDYP11165",
-        price: 349.99,
-        size: "70cm x 40cm x 75cm (Alto)",
-        material: "Cerámica premium con acabado brillante",
+        price: 28.95,
+        size: "46cm x 46",
+        material: "Cerámica ",
         category: "LAVAMANOS",
-        description: "Sanitario de doble descarga con diseño ergonómico y acabado brillante. Sistema de ahorro de agua con tecnología eco-friendly. Asiento suave con cierre silencioso incluido.",
+        description: "Lavamanos de ceramica blanca cuadrado. Perfecto para remodelar tu baño y hacerlo mas moderno. Superficie facil de limpiar",
         image: "CDYP11165.png",
         imageDetail: "CDYP11165.png"
     },
@@ -318,4 +318,5 @@ function closeProductModal() {
 // Inicializar
 
 renderProducts();
+
 
