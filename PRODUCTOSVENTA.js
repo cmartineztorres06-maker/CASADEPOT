@@ -22,7 +22,7 @@ const products = [
         category: "LAVAMANOS",
         description: "Lavamanos de cerámica blanca con diseño cuadrado contemporáneo. Perfecto para baños modernos y minimalistas. Superficie fácil de limpiar y resistente a manchas.",
         image: "CDYP11104.png",
-        imageDetail: "CDYP11104-detail.png"
+        imageDetail: "CDYP11104.png"
     },
     {
         id: 3,
@@ -318,5 +318,6 @@ function closeProductModal() {
 // Inicializar
 
 renderProducts();
+
 
 
