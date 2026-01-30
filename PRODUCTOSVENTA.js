@@ -9,8 +9,8 @@ const products = [
         material: "Cerámica vitrificada premium",
         category: "LAVAMANOS",
         description: "Lavamanos de sobreponer con diseño ovalado contemporáneo, fabricado en cerámica sanitaria de alta calidad con acabado blanco brillante. Su forma ergonómica y estilizada aporta un toque de sofisticación y minimalismo a cualquier baño moderno.",
-        image: "CDYP2382.JPG",
-        imageDetail: "CDYP2382.JPG"
+        image: "CDYP2382.jpg",
+        imageDetail: "CDYP2382.jpg"
     },
     {
         id: 2,
@@ -21,8 +21,8 @@ const products = [
         material: "Cerámica de alta resistencia",
         category: "LAVAMANOS",
         description: "Lavamanos de cerámica blanca con diseño cuadrado contemporáneo. Perfecto para baños modernos y minimalistas. Superficie fácil de limpiar y resistente a manchas.",
-        image: "CDYP11104.PNG",
-        imageDetail: "CDYP11104-detail.PNG"
+        image: "CDYP11104.png",
+        imageDetail: "CDYP11104-detail.png"
     },
     {
         id: 3,
@@ -33,8 +33,8 @@ const products = [
         material: "Cerámica premium con acabado brillante",
         category: "LAVAMANOS",
         description: "Sanitario de doble descarga con diseño ergonómico y acabado brillante. Sistema de ahorro de agua con tecnología eco-friendly. Asiento suave con cierre silencioso incluido.",
-        image: "CDYP11165.PNG",
-        imageDetail: "CDYP11165.PNG"
+        image: "CDYP11165.png",
+        imageDetail: "CDYP11165.png"
     },
     {
         id: 4,
@@ -45,8 +45,8 @@ const products = [
         material: "Acero inoxidable cromado",
         category: "LAVAMANOS",
         description: "Sistema de ducha completo con regadera tipo lluvia de diseño moderno. Acabado cromado de alta calidad resistente a la corrosión. Incluye brazo de pared ajustable.",
-        image: "CDYP205.PNG",
-        imageDetail: "CDYP205.PNG"
+        image: "CDYP205.png",
+        imageDetail: "CDYP205.png"
     },
     {
         id: 5,
@@ -57,8 +57,8 @@ const products = [
         material: "Acero inoxidable cromado",
         category: "LAVAMANOS",
         description: "Set completo de 5 piezas para baño en acabado cromado premium. Incluye toallero, porta papel, jabonera y percheros. Diseño moderno que combina con cualquier estilo.",
-        image: "CDYP11104B.PNG",
-        imageDetail: "CDYP11104B.PNG"
+        image: "CDYP11104B.png",
+        imageDetail: "CDYP11104B.png"
     },
     {
         id: 6,
@@ -69,8 +69,8 @@ const products = [
         material: "Latón cromado premium",
         category: "LAVAMANOS",
         description: "Grifo mezclador de diseño contemporáneo con acabado cromado brillante. Sistema de ahorro de agua con aireador incluido. Cartucho cerámico de larga duración.",
-        image: "CDYP251.PNG",
-        imageDetail: "CDYP251.PNG"
+        image: "CDYP251.png",
+        imageDetail: "CDYP251.png"
     },
     {
         id: 7,
@@ -81,8 +81,8 @@ const products = [
         material: "Cristal templado con marco de aluminio",
         category: "LAVAMANOS",
         description: "Espejo moderno con iluminación LED integrada. Marco de aluminio resistente a la humedad. Luz blanca fría de bajo consumo. Interruptor táctil incluido.",
-        image: "CDMFJ048.PNG",
-        imageDetail: "CDMFJ048.PNG"
+        image: "CDMFJ048.png",
+        imageDetail: "CDMFJ048.png"
     },
     {
         id: 8,
@@ -93,8 +93,8 @@ const products = [
         material: "MDF resistente a la humedad",
         category: "LAVAMANOS",
         description: "Mueble flotante moderno con acabado en madera y cajones de cierre suave. Incluye lavamanos integrado de cerámica. Herrajes de montaje incluidos.",
-        image: "CDMFJ301-41.PNG",
-        imageDetail: "CDMFJ301-41.PNG"
+        image: "CDMFJ301-41.png",
+        imageDetail: "CDMFJ301-41.png"
     },
     {
         id: 9,
@@ -105,8 +105,8 @@ const products = [
         material: "ABS cromado de alta calidad",
         category: "LAVAMANOS",
         description: "Regadera de mano con 5 tipos de rociado diferentes. Incluye manguera flexible de 150cm y soporte ajustable para pared. Fácil instalación.",
-        image: "CDYP11165A.PNG",
-        imageDetail: "CDYP11165A.PNG"
+        image: "CDYP11165A.png",
+        imageDetail: "CDYP11165A.png"
     },
     {
         id: 10,
@@ -117,8 +117,8 @@ const products = [
         material: "Acero inoxidable",
         category: "LAVAMANOS",
         description: "Toallero eléctrico de pared con calefacción. Mantiene las toallas calientes y secas. Acabado cromado elegante. Bajo consumo energético con termostato ajustable.",
-        image: "CDMFJ066B.PNG",
-        imageDetail: "CDMFJ066B.PNG"
+        image: "CDMFJ066B.png",
+        imageDetail: "CDMFJ066B.png"
     },
     {
         id: 11,
@@ -129,8 +129,8 @@ const products = [
         material: "Cerámica vitrificada premium",
         category: "DUCHAS",
         description: "Lavamanos de sobreponer con diseño ovalado contemporáneo, fabricado en cerámica sanitaria de alta calidad con acabado blanco brillante. Su forma ergonómica y estilizada aporta un toque de sofisticación y minimalismo a cualquier baño moderno.",
-        image: "FYS2517HD.PNG",
-        imageDetail: "FYS2517HD.PNG"
+        image: "FYS2517HD.png",
+        imageDetail: "FYS2517HD.png"
     },
     {
         id: 12,
@@ -141,8 +141,8 @@ const products = [
         material: "Cerámica vitrificada premium",
         category: "DUCHAS",
         description: "Lavamanos de sobreponer con diseño ovalado contemporáneo, fabricado en cerámica sanitaria de alta calidad con acabado blanco brillante. Su forma ergonómica y estilizada aporta un toque de sofisticación y minimalismo a cualquier baño moderno.",
-        image: "FYS25011.JPG",
-        imageDetail: "FYS25011.JPG"
+        image: "FYS25011.jpg",
+        imageDetail: "FYS25011.jpg"
     }
 ];
 
@@ -318,3 +318,4 @@ function closeProductModal() {
 // Inicializar
 
 renderProducts();
+
